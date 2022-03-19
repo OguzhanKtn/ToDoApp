@@ -1,0 +1,9 @@
+C:\Users\TOSHIBA\Desktop\.NetTrainings\ToDoApp\bin\Debug\netcoreapp1.1\ToDoApp.deps.json
+C:\Users\TOSHIBA\Desktop\.NetTrainings\ToDoApp\bin\Debug\netcoreapp1.1\ToDoApp.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\.NetTrainings\ToDoApp\bin\Debug\netcoreapp1.1\ToDoApp.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\.NetTrainings\ToDoApp\bin\Debug\netcoreapp1.1\ToDoApp.dll
+C:\Users\TOSHIBA\Desktop\.NetTrainings\ToDoApp\bin\Debug\netcoreapp1.1\ToDoApp.pdb
+C:\Users\TOSHIBA\Desktop\.NetTrainings\ToDoApp\obj\Debug\netcoreapp1.1\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\.NetTrainings\ToDoApp\obj\Debug\netcoreapp1.1\ToDoApp.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\.NetTrainings\ToDoApp\obj\Debug\netcoreapp1.1\ToDoApp.dll
+C:\Users\TOSHIBA\Desktop\.NetTrainings\ToDoApp\obj\Debug\netcoreapp1.1\ToDoApp.pdb
